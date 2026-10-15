@@ -4,6 +4,8 @@
 
 <h1 align="center">ShopSystem</h1>
 
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a></p>
+
  Simple system for shop and upgrade
 
 ## Preview
